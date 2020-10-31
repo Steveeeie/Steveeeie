@@ -1,4 +1,4 @@
-### 🤖 Hello, I'm Steve
+### 🤖 Hello! I'm Steve
 
 a Senior Frontend Developer with over 10 years experience developing websites, applications and games.
 
