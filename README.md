@@ -1,4 +1,7 @@
-### Hi there 👋
+### 🤖 Hello, I'm Steve
+
+a Senior Frontend Developer with over 10 years experience developing websites, applications and games.
+
 
 <!--
 **Steveeeie/Steveeeie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
