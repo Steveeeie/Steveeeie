@@ -2,6 +2,8 @@
 
 a Senior Frontend Developer with over 10 years experience developing websites, applications and games.
 
+<img src="https://raw.githubusercontent.com/Steveeeie/vanilla-js-parcel-starter/master/src/robot.gif" alt="" width="100" />
+
 
 <!--
 **Steveeeie/Steveeeie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
