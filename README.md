@@ -1,8 +1,16 @@
 <img src="https://raw.githubusercontent.com/Steveeeie/vanilla-js-parcel-starter/master/src/robot.gif" alt="" width="100" />
 
+
+---
+
 ### Hello! I'm Steve
 
 a Senior Frontend Developer with over 10 years experience developing websites, applications and games.
+
+---
+#### Available for remote contract opportunities - 13 June
+
+📫 Get In Touch https://uk.linkedin.com/in/steve-meredith-b96b0227
 
 
 
