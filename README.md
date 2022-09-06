@@ -8,7 +8,7 @@
 a Senior Frontend Developer with over 10 years experience developing websites, applications and games.
 
 ---
-#### Available for remote contract opportunities - 20 September
+#### Available for remote contract opportunities - 15 November
 
 📫 Get In Touch https://uk.linkedin.com/in/steve-meredith-b96b0227
 
