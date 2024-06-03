@@ -5,15 +5,12 @@
 
 ### Hello! I'm Steve
 
-a Senior Frontend Developer with over 10 years experience developing websites, applications and games.
+I'm a Lead Frontend Developer with 15 years’ experience building websites, applications, design systems and games. I have extensive knowledge of modern web technologies, namely React and its ecosystem of tools (Next, Gatsby, Redux, Apollo, Jest, etc.). During my time at Sky, I received the award for "Pushing the Boundaries of Digital Experience" in recognition of my contributions to the Sky Glass project.
 
 ---
   #### Available for remote contract opportunities
 
-📫 Get In Touch https://uk.linkedin.com/in/steve-meredith-b96b0227
-
-
-
+📫 Get In Touch https://uk.linkedin.com/in/steve-meredith
 
 <!--
 **Steveeeie/Steveeeie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
