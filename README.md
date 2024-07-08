@@ -5,7 +5,7 @@
 
 ### Hello! I'm Steve
 
-I'm a Lead Frontend Developer with 15 years’ experience building websites, applications, design systems and games. I have extensive knowledge of modern web technologies, namely React and its ecosystem of tools (Next, Gatsby, Redux, Apollo, Jest, etc.). During my time at Sky, I received the award for "Pushing the Boundaries of Digital Experience" in recognition of my contributions to the Sky Glass project.
+A Contract Front-End Developer with 15 years' experience delivering projects at scale for well-known brands, including Sky, FIFA, and The Macallan. Expert knowledge of modern web standards, with extensive experience working on tech stacks that include TypeScript, JavaScript, React, Next.js, Gatsby.js, and WebGL.
 
 ---
   #### Available for remote contract opportunities
