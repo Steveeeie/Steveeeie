@@ -15,8 +15,8 @@ With 15 years' experience as a Front-End Developer, I have delivered projects at
 
 ---
 ### Links
-
-- [Eulersoft Website](https://www.eulersoft.co.uk)
 - [Personal Website](https://www.stevemeredith.com)
 - [CodeSandbox](https://codesandbox.io/u/Steveeeie)
 - [CodePen](https://codepen.io/steveeeie/)
+- [Eulersoft Website](https://www.eulersoft.co.uk)
+
