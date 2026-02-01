@@ -30,5 +30,3 @@ You can find more examples of my work here:
 ## Available for remote contract opportunities
 
 📫 Get In Touch: https://uk.linkedin.com/in/steve-meredith
-
----
