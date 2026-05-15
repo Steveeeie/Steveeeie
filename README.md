@@ -15,7 +15,7 @@ Welcome to my GitHub profile! Here you'll find example projects showcasing my de
 
 | Build Engine Map Exporter | Nasa Media Explorer | CSS Bouncy Castle |
 |:---:|:---:|:---:|
-| [![Build Engine Map Exporter](https://github.com/Steveeeie/build-engine-map-exporter/raw/main/screenshot.png)](https://github.com/Steveeeie/build-engine-map-exporter) | [![Nasa Media Explorer](https://github.com/Steveeeie/nasa-media-explorer/raw/main/screenshot.png)](https://github.com/Steveeeie/nasa-media-explorer) | [![CSS Bouncy Castle](https://github.com/Steveeeie/css-bouncy-castle/raw/master/screenshot.png)](https://github.com/Steveeeie/css-bouncy-castle) |
+| [![Build Engine Map Exporter](https://github.com/Steveeeie/build-engine-map-exporter/raw/main/screenshot.png)](https://github.com/Steveeeie/build-engine-map-exporter) | [![Nasa Media Explorer](https://github.com/Steveeeie/nasa-media-explorer/raw/main/screenshot.png)](https://github.com/Steveeeie/nasa-media-explorer) | [![CSS Bouncy Castle](https://github.com/user-attachments/assets/8fa08955-28b1-43b8-966c-b851942a2b4c)](https://github.com/Steveeeie/css-bouncy-castle) |
 
 ---
 
